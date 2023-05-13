@@ -1,0 +1,24 @@
+{
+  "name": "@aristotle-anderson/fin-terms-package",
+  "version": "1.0.0",
+  "description": "Glossary of financial terms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderson-aristotle/fin-terms-package.git"
+  },
+  "keywords": [
+    "finance",
+    "terms",
+    "definitions"
+  ],
+  "author": "Aristotle Anderson <www.AskAristotle.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anderson-aristotle/fin-terms-package/issues"
+  },
+  "homepage": "https://github.com/anderson-aristotle/fin-terms-package#readme"
+}
