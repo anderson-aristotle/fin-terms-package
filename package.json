@@ -1,6 +1,6 @@
 {
   "name": "@aristotle-anderson/fin-terms-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Glossary of financial terms",
   "main": "index.js",
   "scripts": {
